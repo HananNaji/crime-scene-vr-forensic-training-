@@ -27,16 +27,6 @@ The project was developed as a graduation project at Birzeit University.
 - Large Language Model (LLM) integration
 - Virtual Reality (VR)
 
-## Team
-- Osayed Zaheda
-- Tasneem Abu Sara
-- Hanan Naji
-
-## Supervisor
-Dr. Sobhi Ahmad
-
-## University
-Birzeit University — Department of Computer Science
 
 ## Project Documentation
 The project report can be found in the documentation folder, if included in this repository.
